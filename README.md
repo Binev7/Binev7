@@ -19,7 +19,7 @@ Experienced with Spring Security, JWT, Swagger / OpenAPI, Mockito, and Git.
 ## 📫 Connect With Me
 
 🌐 LinkedIn: https://www.linkedin.com/in/georgi-binev-b11967397/  
-🐙 Gmail: gogobinev@gmail.com  
+✉️ Gmail: gogobinev@gmail.com  
 
 Feel free to reach out!
 
